@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <div className='text-white w-full py-8 px-4'>
-        <div className='wax-w-[1240px] mx-auto grid lg:grid-cols-3'>
+        <div className='max-w-[1240px] mx-auto grid lg:grid-cols-3'>
             <div className='lg:col-span-2 my-4'>
                 <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>Phasellus vestibulum in massa</h1>
                 <p> Donec congue magna sed rhoncus euismod. </p>
